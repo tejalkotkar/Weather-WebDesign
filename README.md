@@ -1,5 +1,7 @@
 # Web-Design-Challenge - Web Visualization Dashboard (Latitude)
 
+### Link to GitHub page for the project : https://tejalkotkar.github.io/Web-Design-Challenge/WebVisualizations/
+
 ## Background
 
 Data is more powerful when we share it with others! Let's take what we've learned about HTML and CSS to create a dashboard showing off the analysis we've done.
