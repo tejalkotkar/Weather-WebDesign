@@ -1,6 +1,6 @@
 # Web-Design-Challenge - Web Visualization Dashboard (Latitude)
 
-### GitHub page for the project : [ProjectLink](https://tejalkotkar.github.io/Web-Design-Challenge/WebVisualizations/)
+### Web page for teh Project is at : [ProjectLink](https://tejalkotkar.github.io/Web-Design-Challenge/WebVisualizations/)
 
 ## Background
 
